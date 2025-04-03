@@ -34,8 +34,12 @@ html{
 }
 
 h2{
-  color: black;
+  color: #2ea59a;
 /*   font-size: 10px; */
+}
+
+h4{
+  color: #2e46a5;
 }
 
 #start{
@@ -44,4 +48,8 @@ h2{
 
 #end{
   text-align: right;
+}
+
+.highlight{
+  background-color: #bfe3ff;
 }
